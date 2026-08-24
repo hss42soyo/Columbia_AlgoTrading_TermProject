@@ -1,0 +1,4 @@
+data/raw/ohlcv.parquet
+data/processed/features.parquet
+/model/__pycache__
+/data/__pycache__
